@@ -29,7 +29,17 @@
     "react-native/no-color-literals": "off",
     "react-native/sort-styles": "off",
     "global-require": "off",
-    "react-native/no-raw-text": "off"
+    "react-native/no-raw-text": "off",
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "never",
+        "objects": "never",
+        "imports": "never",
+        "exports": "never",
+        "functions": "ignore"
+      }
+    ]
   },
   "settings": {
     "import/resolver": {
