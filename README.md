@@ -116,7 +116,6 @@ frintezza-advanced
 ├── devDependencies.json
 ├── index.js
 ├── jsconfig.js
-├── LICENSE
 ├── package.json
 └── README.md
 ```
